@@ -4,7 +4,6 @@ __pycache__/
 *.log
 static/uploads/*
 !static/uploads/.gitkeep
-config.py
 .DS_Store
 .vscode/
 .idea/
